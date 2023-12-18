@@ -1,4 +1,3 @@
-
 ---
 name: User Story
 about: example user story
